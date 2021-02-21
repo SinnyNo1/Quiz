@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Mitr:wght@600&display=swap');
+
+body {
+    background-color: rgb(24, 24, 24);
+    font-family: 'Mitr', sans-serif;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+a {
+    font-size: 2cm;
+}
+
+.text {
+    font-family: 'Mitr', sans-serif;
+    width: 25cm;
+    height: 1.5cm;
+    outline: none;
+    border-radius: 15px;
+    border-color: transparent;
+    font-size: 1.5cm;
+    color: rgb(26, 26, 26);
+}
+
+.button {
+    font-family: 'Mitr', sans-serif;
+    width: 5cm;
+    height: 1.5cm;
+    outline: none;
+    border-radius: 15px;
+    border-color: transparent;
+    font-size: 1cm;
+    color: rgb(26, 26, 26);
+}
