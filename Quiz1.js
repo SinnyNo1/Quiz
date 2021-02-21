@@ -13,6 +13,7 @@ function Changenumber () {
     {
         text2.innerHTML = number1 + " - " + number2
     }
+    console.log('Updated 1')
 }
 
 function Check() {
