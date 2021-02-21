@@ -13,7 +13,7 @@ function Changenumber () {
     {
         text2.innerHTML = number1 + " - " + number2
     }
-    console.log('Updated 1')
+    console.log('Updated 2')
 }
 
 function Check() {
@@ -28,7 +28,7 @@ function Check() {
             });
             setTimeout(function() {
                 window.location = "Quiz1.html"
-            },2000)
+            },1000)
         }
         else
         {
@@ -40,7 +40,7 @@ function Check() {
             });
             setTimeout(function() {
                 window.location = "Quiz1.html"
-            },2000)
+            },1000)
         }
     }
     else
@@ -55,7 +55,7 @@ function Check() {
             });
             setTimeout(function() {
                 window.location = "Quiz1.html"
-            },2000)
+            },1000)
         }
         else
         {
@@ -67,7 +67,7 @@ function Check() {
             });
             setTimeout(function() {
                 window.location = "Quiz1.html"
-            },2000)
+            },1000)
         }
     }
 }
