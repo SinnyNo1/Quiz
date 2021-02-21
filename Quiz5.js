@@ -1,8 +1,8 @@
 let text = document.getElementById('answer')
 let text2 = document.getElementById('number')
 
-var number1 = Math.floor(Math.random() * 101)
-var number2 = Math.floor(Math.random() * 101)
+var number1 = Math.floor(Math.random() * 15000) +5000
+var number2 = Math.floor(Math.random() * 15000) +5000
 var number3 = Math.floor(Math.random() * 2)
 
 function Changenumber () {

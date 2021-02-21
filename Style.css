@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Mitr:wght@600&display=swap');
 
 body {
+    transition: 0.3s;
     background-color: rgb(24, 24, 24);
     font-family: 'Mitr', sans-serif;
     color: white;
@@ -33,4 +34,18 @@ a {
     border-color: transparent;
     font-size: 1cm;
     color: rgb(26, 26, 26);
+}
+
+h1 {
+    transition: 0.3s;
+    color: white;
+    font-size: 2cm;
+}
+
+.tarang {
+    transition: 0.3s;
+    background-color: rgb(17, 17, 17);
+    width: 15cm;
+    border-radius: 20px;
+    margin-left: 17cm;
 }
